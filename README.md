@@ -12,3 +12,10 @@ This is actually really helpful to keep open on your browser while working on th
 - Toggle checkbox
 - Delete button
 - Save to local storage - so your list is kept even if you refresh the page.
+
+## Ideas for the future
+
+- Add date/timestamp
+- Add categories
+- Move position of tasks
+- Sync to other devices
