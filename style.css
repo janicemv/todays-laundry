@@ -1,0 +1,17 @@
+.container {
+    max-width: 60%;
+    margin: 4em auto;
+    background-color: #abd4fc;
+    padding: 2em;
+    border-radius: 1rem;
+}
+
+h1 {
+    color: #393993;
+    font-weight: 700;
+    font-size: 1.5em;
+}
+
+.delete {
+    font-size: 0.5em;
+}
