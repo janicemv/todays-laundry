@@ -19,3 +19,7 @@ This is actually really helpful to keep open on your browser while working on th
 - Add categories
 - Move position of tasks
 - Sync to other devices
+
+## Credits
+
+[To do list icons created by Graphics Plazza - Flaticon](https://www.flaticon.com/free-icons/to-do-list)
